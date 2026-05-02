@@ -1,0 +1,14 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Backend service for prioritised notifications",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}

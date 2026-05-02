@@ -1,0 +1,12 @@
+[
+  { "id": "7962-8025-9beb", "duration": 2, "impact": 70 },
+  { "id": "296c-b11a-af14", "duration": 3, "impact": 90 },
+  { "id": "425e-6fe1-fb92", "duration": 1, "impact": 30 },
+  { "id": "cd12-7129-44de", "duration": 5, "impact": 120 },
+  { "id": "1f4a-bf58-0c71", "duration": 4, "impact": 110 },
+  { "id": "7ff3-fb34-a766", "duration": 3, "impact": 80 },
+  { "id": "9b11-9cd7-42a3", "duration": 6, "impact": 150 },
+  { "id": "0d83-2e96-905f", "duration": 2, "impact": 60 },
+  { "id": "432b-8e12-7dce", "duration": 7, "impact": 160 },
+  { "id": "8caf-5d16-1b20", "duration": 1, "impact": 20 }
+]
